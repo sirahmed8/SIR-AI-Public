@@ -3,18 +3,18 @@
   "title": "SIR AI Executive Autonomous Operator (Jarvis)",
   "title_ar": "المساعد التنفيذي الذكي ونظام تشغيل سطح المكتب جارفيس",
   "version": "1.0.0",
-  "updated_at": "2026-10-26T08:21:03.833673+00:00",
+  "updated_at": "2026-10-26T09:13:31.769665+00:00",
   "zip_package": {
     "file_name": "SIR_AI_Suite.zip",
-    "size_bytes": 262075,
-    "size_mb": 0.25,
-    "sha256": "63fe70ccef68559e2840defcc092dcdbbef0fd9e77d970e723492906de9d575a",
+    "size_bytes": 472592,
+    "size_mb": 0.45,
+    "sha256": "900bba0aaea261d5ced91c80b8a89257c8ce8cca4ea3d4f09d91bfb4f218d254",
     "relative_url": "/downloads/SIR_AI_Suite.zip"
   },
   "main_executable": {
     "file_name": "SIR AI Setup.exe",
-    "size_bytes": 351744,
-    "sha256": "e4cad5491b3d8124d474cae8a39a8def1e2a77668e8532b1b26e25f93e00d261",
+    "size_bytes": 588985,
+    "sha256": "53e229b374e20590a5855e558120c906515d20c47c5552494751a786315f271a",
     "relative_url": "/downloads/SIR AI Setup.exe"
   }
 }
